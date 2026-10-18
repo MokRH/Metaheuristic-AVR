@@ -1,3 +1,7 @@
+# Publication
+Fast and optimal tuning of fractional order PID controller for AVR system based on memorizable-smoothed functional algorithm
+https://doi.org/10.1016/j.jestch.2022.101264
+
 # AVR FOPID Tuning Toolbox
 
 Tuning of **fractional-order PID (FOPID)** controllers for the classical
